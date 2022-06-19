@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jiebaR"]
+	path = jiebaR
+	url = https://github.com/qinwf/jiebar
+	shallow = true
+	registered = true
+[submodule "jiebaRD"]
+	path = jiebaRD
+	url = https://github.com/qinwf/jiebard
+	shallow = true
+	registered = true
